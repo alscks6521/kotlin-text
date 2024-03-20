@@ -12,7 +12,7 @@ fun main() {
     println("q6: $q6")
 }
 
-//test minkikim
+//test
 
 class Question {
     fun question1() {
