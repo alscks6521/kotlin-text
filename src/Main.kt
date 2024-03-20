@@ -3,6 +3,7 @@ fun main() {
     // test commit
     val question = Question()
 
+    //test commit
     question.question1()
     question.question2()
     question.question3()
@@ -12,6 +13,10 @@ fun main() {
     val q6 = question.question6()
     println("q6: $q6")
 }
+
+//test
+
+
 
 class Question {
     fun question1() {
