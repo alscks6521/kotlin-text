@@ -13,6 +13,8 @@ fun main() {
     println("q6: $q6")
 }
 
+//test minkikim
+
 class Question {
     fun question1() {
         /*
